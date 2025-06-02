@@ -1,0 +1,8 @@
+## Interface: 11507
+## Title: MyGoldOnServer
+## Notes: Regroup all golds characters in faction on the server.
+## Version: 0.5.0
+## Author: LQI
+## SavedVariables: MyGoldOnServerDB
+Styles/FKellyColor.lua
+MyGoldOnServer.lua
